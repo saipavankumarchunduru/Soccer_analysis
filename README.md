@@ -12,4 +12,5 @@ Analyze soccer goals trends
 
 [Premier league](https://www.premierleague.com/)
 
-![https://theanalyst.com/wp-content/uploads/2025/11/chelsea-vs-arsenal-prediction-and-preview-premier-league-1536x769.png]
+<img width="1536" height="769" alt="image" src="https://github.com/user-attachments/assets/1e6a7544-d887-433c-8c3b-d25cbcfaa5c5" />
+
